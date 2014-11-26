@@ -12,4 +12,4 @@ Licensed under the Creative Commons Attribution 4.0 International Public License
 
 http://creativecommons.org/licenses/by-sa/4.0/
 
-A copy of the license is available in the repository's <a href="https://raw.github.com/BVLtd/PID-Symbols-BritishStandard/blob/master/License.md">license.txt</a> file.
+A copy of the license is available in the repository's <a href="https://raw.github.com/BVLtd/PID-Symbols-BritishStandard/master/License.md">license.txt</a> file.
